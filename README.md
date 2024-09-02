@@ -11,7 +11,7 @@ The script performs the following tasks:
 
 ## Requirements
 
-Ensure you have the following Python packages installed:
+Ensure you have following Python packages installed:
 - `pandas`
 - `matplotlib`
 - `os`
